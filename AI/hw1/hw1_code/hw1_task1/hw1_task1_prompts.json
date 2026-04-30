@@ -1,0 +1,406 @@
+{
+  "model_name": "Qwen3-VL-2B-Instruct + SDXL-IP-Adapter",
+  "strategy": "C",
+  "results": [
+    {
+      "pair_id": "0001",
+      "generated_prompt": "Create a commercial product advertisement for the ORICO USB4 SSD Enclosure. Design a clean, premium poster with the product prominently displayed in the center, showcasing its transparent casing and internal cooling fins. Use a sophisticated color palette of silver, black, and white, with a bold headline at the top reading \"The watch you want. Now.\" and a \"Shop Now\" button at the bottom."
+    },
+    {
+      "pair_id": "0002",
+      "generated_prompt": "Create a commercial product advertisement for the Haier refrigerator, featuring a clean, modern layout with the product prominently displayed in the center. Use a dark, sophisticated color palette with a sleek, minimalist design, and include a bold, eye-catching headline at the top or bottom of the poster. Ensure the product is clearly visible and the overall aesthetic matches the premium, high-end style of the reference image."
+    },
+    {
+      "pair_id": "0003",
+      "generated_prompt": "Create a commercial product advertisement for the HEGEN PPSU Straw Training Cup for Ages 1-3, 330ml, Multifunctional Kids Drinking Cup, Blue. Design a clean, premium poster with the product prominently displayed in the center, featuring a clear, transparent cup with a blue lid and a white straw. Use a bold, modern headline at the top or bottom, with the brand name \"HEGEN\" and the product title clearly visible. The color palette should be bright and inviting, with a clean white background and a subtle orange accent, matching the reference poster's aesthetic."
+    },
+    {
+      "pair_id": "0004",
+      "generated_prompt": "Create a commercial product advertisement for the Haier Little Red Flower Series Frost-Free Freezer, 200L+, -38°C Ultra-Low Temperature, Model BC/BD-201WGHED. Design a clean, premium poster with the freezer as the central focus, using a sophisticated dark blue and silver color palette. Position a bold, elegant headline at the top or bottom, ensuring the product is clearly visible and the overall aesthetic matches the reference image's sophisticated, modern style."
+    },
+    {
+      "pair_id": "0005",
+      "generated_prompt": "Create a commercial product advertisement for the UGREEN 100W Power Bank, featuring a clean, premium aesthetic with a dark gray and olive green color palette. The power bank, with its sleek metallic finish and digital display, should be the central focus, positioned in the center of the image. At the top, use a bold, modern headline like \"BUY 3 GET 4TH\" or \"40% OFF\" to draw attention, with the product name and key features clearly visible below."
+    },
+    {
+      "pair_id": "0006",
+      "generated_prompt": "Create a commercial product advertisement for the STELANG 517EC espresso machine, featuring a clean, premium aesthetic. The product should be the central focus, positioned prominently in the center of the image with a sleek off-white and chrome finish. The headline should be bold and impactful, positioned at the top of the poster, with the brand name and product details clearly visible. The overall design should match the reference poster's color palette and modern, minimalist style."
+    },
+    {
+      "pair_id": "0007",
+      "generated_prompt": "Create a commercial product advertisement for the Morphy Richards MR1158 Electric Steamer and Stewing Pot. Design a clean, premium poster with the product prominently displayed in the center, showcasing its blue color and the cooked chicken and vegetables inside. Use a bold, modern headline at the top, such as \"Delicious Meals, Anytime,\" and a \"Shop Now\" call-to-action button at the bottom, matching the green and white color scheme of the reference image."
+    },
+    {
+      "pair_id": "0008",
+      "generated_prompt": "Create a commercial poster for the Hbada E3Air 4th Gen Ergonomic Chair, featuring a clean, modern design with a premium aesthetic. The product should be prominently displayed in the center, showcasing its ergonomic mesh design, adjustable armrests, and five-star base. Use a sophisticated black and white color palette with a sleek, minimalist background to emphasize the chair's high-quality craftsmanship and advanced features."
+    },
+    {
+      "pair_id": "0009",
+      "generated_prompt": "Create a commercial poster with a clean, premium aesthetic, featuring the Red Dragonfly Men's Thick-Soled Height-Increasing Business Dress Shoes as the central focus. The shoes, black cowhide leather with a thick, textured sole, are displayed in a dynamic, angled view against a minimalist white background. The headline \"Red Dragonfly Men's Thick-Soled Height-Increasing Business Dress Shoes\" should be prominently placed at the top in a bold, modern font, with the product name and model number WTA343201 clearly visible."
+    },
+    {
+      "pair_id": "0010",
+      "generated_prompt": "Create a commercial product advertisement for the Haier 60L Electric Water Heater, featuring a clean, modern layout with the product prominently displayed in the center. Use a premium aesthetic with a dark blue and silver color palette, and a professional, sleek design. The headline should be bold and clear at the top or bottom of the poster, highlighting the product's key features and benefits."
+    },
+    {
+      "pair_id": "0011",
+      "generated_prompt": "Create a commercial product advertisement for the CASDON Integrated Stove with Steaming and Baking Oven, Gas Cooktop, Right-Side Exhaust for Natural Gas, Model JJZT-B2S9-T2E Pro. Design a clean, premium poster with the product prominently displayed in the center, featuring a sleek black and stainless steel finish. Use a bold, modern headline at the top, such as \"Stay Warm This Winter,\" and a strong call-to-action like \"SHOP NOW\" at the bottom, matching the reference poster's color palette of black, white, and metallic gray."
+    },
+    {
+      "pair_id": "0012",
+      "generated_prompt": "Create a commercial product advertisement for the Xiaomi Redmi Book 14 2025 Lightweight Laptop, featuring a clean, premium aesthetic. The product should be prominently displayed in the center of the image, with a sleek, modern design. The headline should be bold and eye-catching, positioned at the top or bottom of the poster, using a strong, professional font. The color palette should match the reference image, with a dominant blue and purple theme, and a clean, minimalist layout to emphasize the laptop's high-performance capabilities."
+    },
+    {
+      "pair_id": "0013",
+      "generated_prompt": "Create a commercial poster with a clean, modern aesthetic, featuring the ERKE Women's Breathable Mesh Sports Shoes as the central focus. The product should be prominently displayed in the center, with a clean white background and a subtle gradient. At the top, use a bold, elegant headline in a dark, sophisticated font that reads \"ERKE Women's Breathable Mesh Sports Shoes, Lightweight Soft-Soled Casual Running Shoes, Jie'sao 3.0\". The overall design should reflect a premium, stylish, and appealing advertisement mood, matching the reference poster's color palette and layout."
+    },
+    {
+      "pair_id": "0014",
+      "generated_prompt": "Create a commercial product advertisement for the TCL 65T6L-C 65-inch QD-Mini LED QLED TV, featuring a clean, premium aesthetic. The product should be the central focus, displayed in a striking, high-resolution image with a luxurious green and gold floral design. The headline should be bold and prominent, positioned at the top or bottom of the poster, with a strong visual hierarchy that emphasizes the TV's premium features and vibrant display."
+    },
+    {
+      "pair_id": "0015",
+      "generated_prompt": "Create a commercial product advertisement for the HP GK400F Mechanical Keyboard and Mouse Combo, featuring a clean, premium aesthetic. The product should be prominently displayed in the center of the image, with a striking silver body and ice blue backlighting, and red switches. The headline should be bold and eye-catching, positioned at the top of the poster, with the price and free shipping details clearly visible in the lower right corner."
+    },
+    {
+      "pair_id": "0016",
+      "generated_prompt": "Create a commercial product advertisement for the Insta360 GO 3S 4K Thumb Camera, featuring a clean, premium aesthetic. The camera should be prominently displayed in the center of the image, with a large, clear view of the product's white body and the 4K screen. The headline should be bold and eye-catching, positioned at the top of the poster, with the product title clearly visible. The overall design should match the reference poster's color palette of light blue and white, with a modern, minimalist layout."
+    },
+    {
+      "pair_id": "0017",
+      "generated_prompt": "Create a commercial product advertisement for the KARCHER KHB Air Cordless Folding Car Washer. Design a clean, premium poster with the product prominently displayed in the center, featuring a bold, high-contrast headline at the top. Use a dark green and black color palette with a modern, minimalist aesthetic to match the reference poster's style."
+    },
+    {
+      "pair_id": "0018",
+      "generated_prompt": "Create a commercial product advertisement for the DREAM RANGER Foldable Water Cup. Design a clean, premium poster with the product prominently displayed in the center, showcasing its vibrant orange color and sleek design. Use a bold headline at the top reading \"The water cup, reimagined\" to establish the product's innovative appeal, matching the vibrant orange and minimalist aesthetic of the reference image."
+    },
+    {
+      "pair_id": "0019",
+      "generated_prompt": "Create a commercial product advertisement for the SUPOR Electric Cooking Pot. Design a clean, premium poster with the product prominently displayed in the center, showcasing its sleek, modern design and nonstick features. Use a soft, neutral color palette with a minimalist aesthetic, and include a compelling headline at the top that reads \"SUPOR Electric Cooking Pot\" in a bold, elegant font."
+    },
+    {
+      "pair_id": "0020",
+      "generated_prompt": "Create a commercial product advertisement for the JOMOO Smart Toilet Set, featuring a clean, modern design with a premium aesthetic. The product should be prominently displayed in the center of the image, with a sleek white toilet and a digital control panel visible. The headline should be bold and eye-catching at the top, using a clean, modern font, and the overall color palette should be white, light blue, and silver to match the reference poster's style."
+    },
+    {
+      "pair_id": "0021",
+      "generated_prompt": "Create a commercial product advertisement for the Jijintong Hilton Hotel Mattress, featuring a clean, premium aesthetic. The product should be prominently displayed in the center of the image, with a white, quilted mattress clearly visible. The headline should be bold and eye-catching, positioned at the top or bottom of the poster, with a strong call to action. The color palette should match the reference poster, using a cool blue and white theme with subtle gradients and a modern, minimalist design."
+    },
+    {
+      "pair_id": "0022",
+      "generated_prompt": "Create a commercial poster with a clean, premium aesthetic, featuring the YEREN TANG fragrance shampoo as the central focus. The product should be prominently displayed in the center, with a white bottle and a blue liquid visible through the transparent section. The headline \"Healthy-Looking Skin Is a Science\" should be positioned at the top in a bold, elegant font, with a \"SHOP NOW\" button below it. The overall color palette should be neutral and sophisticated, with a black and white background and a soft beige accent."
+    },
+    {
+      "pair_id": "0023",
+      "generated_prompt": "Create a commercial product advertisement for \"FULL MONTY Washed Cotton Twill Casual Pants\" in a clean, premium style. The image should feature the light khaki pants as the central focus, with a minimalist background to highlight the product. The design should include a bold, modern headline at the top, using a clean sans-serif font, and a \"SHOP NOW\" call-to-action button at the bottom right corner."
+    },
+    {
+      "pair_id": "0024",
+      "generated_prompt": "Create a commercial product advertisement for the DJI Pocket 3 Osmo Pocket Gimbal Camera. Design a clean, premium poster with the camera as the central focus, positioned in the center of the frame. Use a bold, modern headline at the top, such as \"DJI Pocket 3: Capture Every Moment,\" and ensure the product's sleek black design and the \"Osmo\" branding are clearly visible. Apply a sophisticated color palette of black, white, and subtle metallic accents to match the reference poster's aesthetic."
+    },
+    {
+      "pair_id": "0025",
+      "generated_prompt": "Create a commercial product advertisement for an insulated stainless steel lunch box. The image should feature a clean, modern layout with the product prominently displayed in the center, showcasing its two-tier design and off-white color. The headline should be bold and eye-catching, positioned at the top or bottom of the poster, with a premium aesthetic that matches the reference image's style."
+    },
+    {
+      "pair_id": "0026",
+      "generated_prompt": "Create a commercial product advertisement for the Tianyuyun Handbag Wagon, featuring a clean, minimalist design with a premium aesthetic. The product should be prominently displayed in the center of the image, showcasing its ultra-light foldable design and brilliant orange color. The headline \"Tianyuyun Handbag Wagon\" should be positioned at the top in a bold, modern font, with a \"Shop Now\" call-to-action button below it."
+    },
+    {
+      "pair_id": "0027",
+      "generated_prompt": "Create a commercial product advertisement for the MAXCOOK 304 Stainless Steel Breakfast Cup. Design a clean, premium poster with the product centrally featured, showcasing its coral red lid and white body. Use a bold, modern headline at the top, such as \"MORE THAN JUST A COOLER,\" to emphasize its functionality and appeal, matching the aesthetic of the reference image."
+    },
+    {
+      "pair_id": "0028",
+      "generated_prompt": "Create a commercial poster with a clean, premium aesthetic, featuring the AKALU Saffron Feminine Care Essential Oil as the central focus. The product should be prominently displayed in the center, with a rich red bottle and gold dropper cap, set against a minimalist white background. At the top, use a bold, elegant headline like \"Say Hello To Honey\" to create a luxurious and inviting mood, with the product name and volume clearly visible below."
+    },
+    {
+      "pair_id": "0029",
+      "generated_prompt": "Create a commercial product advertisement for the Khadas Mind 2 AI Mini Workstation. Design a clean, modern poster with the product prominently displayed in the center, showcasing its sleek, minimalist design and the \"KHADAS\" logo on the top surface. Use a premium aesthetic with a neutral color palette, featuring a white background and subtle shadows to enhance the product's premium feel. The headline should be bold and clear, positioned at the top or bottom of the image, emphasizing the product's key features and benefits."
+    },
+    {
+      "pair_id": "0030",
+      "generated_prompt": "Create a commercial product advertisement for the Mijia H40 Robot Vacuum and Mop. Design a clean, premium poster with the product prominently displayed in the center, showcasing its sleek white design and the Mijia logo. Use a bold, modern headline at the top, such as \"The Future of Home Cleaning,\" and match the color palette of the reference image—dominated by white, orange, and dark blue—with a minimalist, high-contrast layout to emphasize the product's advanced features and clean aesthetic."
+    },
+    {
+      "pair_id": "0031",
+      "generated_prompt": "Create a commercial product advertisement for the ECOFLOW RIVER 3 Portable Power Station. Design a clean, premium poster with the product prominently displayed in the center, showcasing its sleek black design and key features like the digital display, multiple ports, and compact form factor. Use a bold, modern headline at the top or bottom, with a strong color palette of black, white, and subtle metallic accents to match the reference image's aesthetic."
+    },
+    {
+      "pair_id": "0032",
+      "generated_prompt": "Create a commercial product advertisement for the INAIR 2 Pro + Pod AR Spatial Computer and AR Glasses, featuring a clean, premium aesthetic. The product should be prominently displayed in the center of the image, with a sleek, modern design. The headline should be bold and positioned at the top or bottom of the poster, using a strong, clear font to capture attention."
+    },
+    {
+      "pair_id": "0033",
+      "generated_prompt": "Create a commercial product advertisement for the COACH CITY Tote Bag 33 for Women, featuring a clean, premium aesthetic. The bag, with its sand/gray brown color and classic signature monogram pattern, should be the central focus, positioned prominently in the center of the image. Use a bold, modern headline at the top or bottom, with a clean white background to highlight the product and create a sophisticated, high-end feel."
+    },
+    {
+      "pair_id": "0034",
+      "generated_prompt": "Create a commercial product advertisement for the SHEYIN X9 True Bone Conduction Bluetooth Headphones. Design a clean, premium poster with the product prominently displayed in the center, showcasing its sleek black design and \"Sound in SHEYIN\" branding. Use a bold, modern headline at the top in a striking red and white font, with the tagline \"SHEYIN X9\" in a large, elegant font, and include the product's key features like \"IPX8 Waterproof\" and \"32GB Dual Mode\" in a clear, professional layout."
+    },
+    {
+      "pair_id": "0035",
+      "generated_prompt": "Create a commercial poster for the Morphy Richards Instant Hot Water Purifier, featuring a clean, modern layout with the product as the central focus. Use a premium aesthetic with a neutral gray and gold color palette, and ensure the headline \"layer in your style\" is prominently displayed at the top, with the product clearly visible in the center."
+    },
+    {
+      "pair_id": "0036",
+      "generated_prompt": "Create a commercial product advertisement for the DELIXI Rechargeable Water Pump. Design a clean, premium poster with the product prominently displayed in the center, showcasing its red casing and black handle. Use a bold, modern headline at the top, such as \"DELIXI Water Pump: Power Your Garden with 9-Battery & 5m Hose,\" and ensure the color palette is consistent with the reference image—featuring a clean white background, soft pink and white accents, and a sophisticated, minimalist aesthetic."
+    },
+    {
+      "pair_id": "0037",
+      "generated_prompt": "Create a commercial poster with a clean, minimalist design, featuring the Matte Nordic Vertical-Rib Ceramic Flower Pot in a vibrant green hue, centered in the composition. The product should be the focal point, with a soft, warm lighting effect highlighting its texture and form. Use a premium aesthetic with a neutral background and a bold, elegant headline at the top that reads \"let the light shine\" to evoke a sense of sophistication and natural beauty."
+    },
+    {
+      "pair_id": "0038",
+      "generated_prompt": "Create a commercial poster with a clean, premium aesthetic, featuring the PANDA CD-67 All-in-One CD Player and Speaker System in the center. The product should be prominently displayed with a clear, modern design, and the headline \"YOUR TALENT. OUR TAPE.\" should be positioned at the top in a bold, white font against a dark background. The color palette should be consistent with the reference image, using black, white, and metallic silver tones."
+    },
+    {
+      "pair_id": "0039",
+      "generated_prompt": "Create a commercial poster with a clean, modern aesthetic, featuring the Robam 60A0 Range Hood as the central focus. The product should be prominently displayed in the center, with a sleek black and silver design, and a minimalist background. The headline should be bold and clear at the top, with the product name and key features highlighted in a premium, professional font."
+    },
+    {
+      "pair_id": "0040",
+      "generated_prompt": "Create a commercial product advertisement for the Jiedentai High-Speed Leafless Hair Dryer, featuring a clean, premium aesthetic. The product should be prominently displayed in the center of the image, with a sleek, modern design highlighted in rose red and dark gray. The headline should be bold and eye-catching at the top, using a large, elegant font, with the brand name and product title clearly visible."
+    },
+    {
+      "pair_id": "0041",
+      "generated_prompt": "Create a commercial product advertisement for the \"Liyi Jiujiu Alpaca Massage Pillow\" in a clean, premium style. The product should be the central focus, prominently displayed in the center of the image with a soft, inviting pose. Use a clean white background to highlight the product and a warm, inviting color palette of soft whites, reds, and gentle earth tones. The headline should be bold and clear at the top or bottom of the poster, with a strong call to action."
+    },
+    {
+      "pair_id": "0042",
+      "generated_prompt": "Generate a commercial product advertisement for the \"joyself Akoya Saltwater Pearl Necklace\" in a premium, clean style. The image should feature the necklace as the central focus, with a soft, elegant background of light wood and subtle geometric patterns. The product should be prominently displayed in the center, with a large, bold headline at the top reading \"LEDiN\" and \"UP TO 60% OFF\" in a striking font. The overall aesthetic should match the reference poster's color palette of soft pinks, whites, and metallic accents, with a \"SHOP NOW\" call-to-action button at the bottom."
+    },
+    {
+      "pair_id": "0043",
+      "generated_prompt": "Create a commercial product advertisement for the RAIJODA Ultra-Light Iron Wok, featuring a clean, modern layout with the wok as the central focus. The headline should be bold and prominent, positioned at the top or bottom of the image. Use a premium aesthetic with a neutral color palette, soft lighting, and a clean white background to highlight the product's sleek design and nonstick coating."
+    },
+    {
+      "pair_id": "0044",
+      "generated_prompt": "Create a commercial product advertisement for the \"Wilderness Shiguang Automatic Pop-Up Tent\" in a clean, premium style. The tent should be the central focus, positioned in the center of the image with a minimalist background. Use a bold, modern headline at the top or bottom of the poster, such as \"Adventure Awaits\" or \"Your Ultimate Camping Solution,\" to capture attention. The color palette should match the reference poster, featuring a muted green and earthy tones, with a crisp white and beige for the tent, creating a cohesive and appealing aesthetic."
+    },
+    {
+      "pair_id": "0045",
+      "generated_prompt": "Create a commercial product advertisement for the DJI Osmo Action 4 Sports Camera. Design a clean, premium poster with the camera as the central focus, positioned in the center of the frame. Use a bold, modern headline at the top that reads \"DJI Osmo Action 4: Capture Every Moment\" in a large, impactful font. Ensure the color palette matches the reference image—dark tones with a subtle metallic accent and a professional, sleek aesthetic."
+    },
+    {
+      "pair_id": "0046",
+      "generated_prompt": "Create a commercial product advertisement for the BIGME HiBreak 5.84-inch Color E-Ink Smart Reader Phone, 6GB+128GB, in a premium poster style. The design should feature the phone as the central focus, with a clean, modern layout and a strong, appealing headline at the top. The color palette should match the reference image, using a gradient of deep purple and teal, with a sleek, minimalist aesthetic to highlight the product's advanced features and premium quality."
+    },
+    {
+      "pair_id": "0047",
+      "generated_prompt": "Create a commercial product advertisement for the Viken Air Over-Ear Bluetooth Headphones, featuring a clean, premium aesthetic. The product should be prominently displayed in the center of the image, with a sleek black and silver design, set against a minimalist white background. The headline \"Shop. Connect. Enjoy.\" should be positioned at the top, with the product title clearly visible below it, matching the bold, modern font and color scheme of the reference poster."
+    },
+    {
+      "pair_id": "0048",
+      "generated_prompt": "Create a commercial poster with a clean, premium aesthetic, featuring the Tianjiang Handmade Silk Persian Carpet as the central focus. The carpet should be displayed in a luxurious, ornate style with a rich blue and gold border, set against a neutral, minimalist background. The headline \"Tianjiang Handmade Silk Persian Carpet\" should be prominently displayed at the top in a bold, elegant font, with the product size and dimensions (270 x 370cm) clearly visible below."
+    },
+    {
+      "pair_id": "0049",
+      "generated_prompt": "Generate a commercial product advertisement for the Fangxingweiai Foldable Desk in haze blue. The image should feature the desk as the central focus, with a clean, minimalist layout and a premium aesthetic. The headline should be bold and eye-catching, positioned at the top of the poster, with the product name and dimensions clearly visible. The color palette should match the reference image, using a soft, modern design with a clean white background to highlight the product."
+    },
+    {
+      "pair_id": "0050",
+      "generated_prompt": "Create a commercial product advertisement for the Phoenix Electric Bicycle. Design a clean, premium poster with the bicycle prominently displayed in the center, showcasing its beige frame, distinctive black spoked wheels, and brown basket. Use a bold, modern headline at the top that reads \"Phoenix Electric Bicycle\" in a large, elegant font, with the product title \"Long-Range Adult E-Bike, L8 Beige, 48V 6Ah, 26-inch, 7-Speed, 24km Range\" in a smaller, clear font below. Ensure the color palette is warm and sophisticated, matching the reference poster's aesthetic."
+    },
+    {
+      "pair_id": "0051",
+      "generated_prompt": "Create a commercial product advertisement for a foldable baby bathtub. The image should feature the product prominently in the center, with a clean, modern layout. The headline should be bold and eye-catching at the top or bottom of the poster. Use a premium aesthetic with a neutral color palette and a soft, inviting background to highlight the product's features and appeal."
+    },
+    {
+      "pair_id": "0052",
+      "generated_prompt": "Create a commercial poster with a clean, premium aesthetic, featuring the Feichi Rapid IPL Hair Removal Device, Ice Jade Gen 2, Fast Flash Home Hair Remover as the central focus. Position the product in the center of the image, with a sleek, modern design and a cool, icy green and white color palette. At the top, use a bold, clear headline like \"FAMOUS FOR TOP TRENDING BRANDS\" to establish the brand's credibility, and include a \"SHOP NOW\" call-to-action at the bottom."
+    },
+    {
+      "pair_id": "0053",
+      "generated_prompt": "Generate a commercial product advertisement for the CELV Men's Backpack, featuring a clean, modern design with a premium aesthetic. The backpack should be prominently displayed in the center of the image, showcasing its gray color, water-resistant material, and large-capacity design. The background should be a minimalist, high-contrast color scheme with a bold yellow and black diagonal accent, matching the reference poster's style. The headline should be bold and eye-catching, positioned at the top or bottom of the image, with a clear call to action."
+    },
+    {
+      "pair_id": "0054",
+      "generated_prompt": "Create a commercial poster for the FEIRSH Inflatable Mattress with Built-In Pump, featuring a clean, premium aesthetic. The mattress, in a peach-skin color, should be the central focus, positioned in the center of the frame with a clean white background. The headline \"Inflatable Mattress with Built-In Pump\" should be prominently displayed at the top in a bold, modern font, with the product's key features highlighted in a clear, readable style."
+    },
+    {
+      "pair_id": "0055",
+      "generated_prompt": "Create a commercial product advertisement for the Haier Washer-Dryer Combo, featuring a clean, modern layout with the appliance prominently displayed in the center. Use a premium aesthetic with a teal and orange color palette, a clean white background, and a bold headline at the top that reads \"GET UP TO 30% OFF SELECT APPLIANCES\" to match the reference poster's style."
+    },
+    {
+      "pair_id": "0056",
+      "generated_prompt": "Create a commercial poster-style advertisement for the ASUS ROG XG27UCG 27-inch 4K Gaming Monitor. Position the monitor as the central focus, with its sleek black frame and vibrant display showing the \"REPUBLIC OF GAMERS\" logo in the center. Use a clean, modern layout with a white background and a subtle gradient, ensuring the product is highly visible and the headline \"RULE THE GAME\" is prominently displayed at the top in bold, modern typography."
+    },
+    {
+      "pair_id": "0057",
+      "generated_prompt": "Create a commercial product advertisement for the Ruchu Tmall Genie Magnetic Levitation Globe. Design a clean, premium poster with the product centrally featured, glowing softly against a minimalist background. Use a sophisticated color palette of warm golds, deep blues, and crisp whites to match the reference image's aesthetic. Ensure the product is clearly visible and the headline \"Ruchu Tmall Genie Magnetic Levitation Globe\" is prominently displayed at the top."
+    },
+    {
+      "pair_id": "0058",
+      "generated_prompt": "Create a commercial poster with a clean, modern aesthetic, featuring the Kashiyi Sofa Bed as the central focus. The sofa should be prominently displayed in the center, with a soft, neutral color palette and a luxurious fabric texture. At the top, use a bold, eye-catching headline like \"UNLOCK YOUR LIVING SPACE\" to draw attention, and include a \"BOOK NOW\" call-to-action button at the bottom."
+    },
+    {
+      "pair_id": "0059",
+      "generated_prompt": "Create a commercial poster for the DJI Neo Palm-Size Vlog Drone, featuring a clean, premium aesthetic with a white and black color palette. The drone should be prominently displayed in the center, with its four propellers and camera clearly visible. At the top, use a bold headline like \"Official Vehicle of Summer\" to match the reference poster's style, and include a \"Shop Now\" call-to-action button at the bottom."
+    },
+    {
+      "pair_id": "0060",
+      "generated_prompt": "Create a commercial product advertisement for the Huawei WiFi 3 Pro Portable Mobile Hotspot. Design a clean, premium poster with the product prominently displayed in the center, angled to showcase its sleek design. Use a modern, minimalist layout with a dark blue and white color palette, and include a bold headline at the top that reads \"Stay Connected, Anywhere\" to emphasize the product's key benefit."
+    },
+    {
+      "pair_id": "0061",
+      "generated_prompt": "Create a commercial product advertisement for the KUKA Home Computer Chair, featuring a clean, premium aesthetic. The image should have a dark blue textured background, with the product prominently displayed in the center. The headline \"KUKA Home Computer Chair\" should be in large, bold, yellow font at the top, with the tagline \"Comfortable Ergonomic Office and Leisure Chair\" in smaller white text below it. The chair should be shown in a sunset orange color with fixed armrests, and the overall design should match the reference poster's style with a strong focus on the product."
+    },
+    {
+      "pair_id": "0062",
+      "generated_prompt": "Create a commercial poster with a premium, clean aesthetic, featuring the iFLYTEK Translation Earbuds as the central focus. The earbuds should be displayed in their charging case, with the digital display showing \"100\" and the charging indicator lights illuminated. The headline should be bold and prominent, positioned at the top or bottom of the image, with a clear call to action. The color palette should match the reference poster, using a dark, sophisticated background with a strong contrast for the product and text."
+    },
+    {
+      "pair_id": "0063",
+      "generated_prompt": "Create a commercial poster for the EDIFIER HECATE G2 Pro Gaming Headset, featuring a clean, premium aesthetic with a vibrant pink and white color scheme. The headset, with its distinctive cat-ear design and glowing pink accents, should be the central focus, positioned prominently in the center of the image. The headline \"Experience the Boldest Flavors of Earth\" should be displayed at the top in bold, eye-catching text, with a \"Shop now\" call-to-action button at the bottom."
+    },
+    {
+      "pair_id": "0064",
+      "generated_prompt": "Create a commercial poster with a clean, premium aesthetic, featuring the \"Authentic Fuling Shredded Pickled Mustard Tuber\" as the central focus. The product should be prominently displayed in a large, appealing shot, with a vibrant, golden-yellow color palette and a rustic, inviting design. The headline should be bold and eye-catching, positioned at the top or bottom of the image, with a clear \"SHOP NOW\" call to action."
+    },
+    {
+      "pair_id": "0065",
+      "generated_prompt": "Create a commercial poster with a clean, premium aesthetic, featuring the \"Mr. Nanchu New Chinese Style Orchid Bronze Ornament\" as the central focus. Position the ornamental orchid in the center of the image, with its delicate pink blossoms and golden stem clearly visible. Use a sophisticated color palette of soft pinks, gold, and white to match the reference poster's style, ensuring the product is the most prominent element."
+    },
+    {
+      "pair_id": "0066",
+      "generated_prompt": "Create a commercial product advertisement for \"Fresh Free-Range Eggs, Farm Eggs, Selected 20 Pieces\" in a clean, premium poster style. The product should be prominently displayed in the center of the image, with a rustic woven basket holding the eggs. The headline should be bold and eye-catching at the top, using a modern, clean font. The overall aesthetic should match the reference image's color palette and mood, featuring a warm, natural lighting and a minimalist background to highlight the product."
+    },
+    {
+      "pair_id": "0067",
+      "generated_prompt": "Create a commercial poster with a clean, premium aesthetic, featuring the Raleigh folding bicycle as the central focus. The bicycle should be prominently displayed in the center, with a dark purple frame and 16-inch wheels, set against a clean, minimalist background. At the top, use a bold, modern headline in a large font, such as \"Raleigh Folding Bicycle: The Ultimate Commuter Solution,\" to capture attention."
+    },
+    {
+      "pair_id": "0068",
+      "generated_prompt": "Create a commercial product advertisement for the Lenovo Legion R7000 2025 Gaming Laptop, featuring a clean, premium aesthetic. The product should be prominently displayed in the center of the image, with a bold, high-contrast headline at the top. The color palette should match the reference poster, using a sophisticated dark gray and black base with vibrant red accents, and a sleek, modern design mood."
+    },
+    {
+      "pair_id": "0069",
+      "generated_prompt": "Create a commercial product advertisement for the Chuidaohuang Silicone Spatula, featuring a clean, modern design with a premium aesthetic. The product should be prominently displayed in the center of the image, with a bold, clear headline at the top. The color palette should match the reference poster, using a vibrant green background with crisp white and black text, and a minimalist, professional layout."
+    },
+    {
+      "pair_id": "0070",
+      "generated_prompt": "Create a commercial product advertisement for the Spalding TF-1000 Indoor Game Basketball, featuring a clean, premium aesthetic. The basketball should be the central focus, positioned in the center of the frame with a high-resolution, detailed view against a minimalist background. Use a bold, modern headline at the top or bottom of the poster, such as \"THE BALL THAT NEVER DROPS,\" to emphasize the product's quality and performance."
+    },
+    {
+      "pair_id": "0071",
+      "generated_prompt": "Create a commercial product advertisement for the MAXCOOK 30cm Iron Wok, featuring a clean, minimalist layout with the wok as the central focus. Position the product in the center of the frame, with a bold, clear headline at the top reading \"MAXCOOK 30cm Iron Wok\" in a modern, premium font. Use a sophisticated color palette of black, white, and soft beige to match the reference poster's aesthetic, ensuring the product stands out with high visibility and a premium feel."
+    },
+    {
+      "pair_id": "0072",
+      "generated_prompt": "Create a commercial poster with a clean, premium aesthetic, featuring the Nongfu Spring Natural Drinking Water for Infants and Young Children, 1L x 12 Bottles as the central focus. The product should be prominently displayed in the center, with the brand name and product details clearly visible. The background should be a soft, natural white, with a subtle, elegant design of pine trees and two cartoon dogs, creating a warm and trustworthy mood. The headline should be bold and clear at the top or bottom of the image, using a clean, modern font."
+    },
+    {
+      "pair_id": "0073",
+      "generated_prompt": "Create a commercial poster with a clean, premium aesthetic, featuring the Theland Grass-Fed Full Cream Milk prominently in the center. The product should be displayed in its 250ml carton, with the 24-pack box and individual cartons arranged neatly to the right. The headline \"Sweeten The Journey\" should be positioned at the top in a bold, elegant font, with the product's key benefits—3.5g protein, high calcium, and 250ml x 24—clearly visible in a vibrant, eye-catching layout."
+    },
+    {
+      "pair_id": "0074",
+      "generated_prompt": "Create a commercial product advertisement for the Jinxiangyu Yixing Purple Clay Cup, featuring a clean, minimalist layout with the cup as the central focus. Use a premium aesthetic with a muted earthy color palette, similar to the reference image, and a bold, clear headline at the top. Ensure the product is prominently displayed with high contrast and sharp details, and the text \"Jinxiangyu Yixing Purple Clay Cup\" is clearly visible in a large, elegant font."
+    },
+    {
+      "pair_id": "0075",
+      "generated_prompt": "Create a commercial product advertisement for La Roche-Posay Toleriane Cleanser, featuring a clean, premium aesthetic. The product should be prominently displayed in the center of the image, with a light blue and white color scheme. The headline should be bold and eye-catching, positioned at the top or bottom of the poster, with a clear \"SHOP NOW\" call to action in the lower right corner."
+    },
+    {
+      "pair_id": "0076",
+      "generated_prompt": "Create a commercial product advertisement for KUYURA Body Wash in a clean, premium style. The product should be prominently displayed in the center of the image, with a yellow bottle and a pump dispenser clearly visible. The headline should be bold and eye-catching, positioned at the top or bottom of the poster. The overall aesthetic should match the reference image's color palette of blue, white, and gold, with a minimalist and elegant design."
+    },
+    {
+      "pair_id": "0077",
+      "generated_prompt": "Create a commercial poster for Devondale Adult Milk Powder, featuring a clean, premium aesthetic with a vibrant green and white color palette. The product should be prominently displayed in the center, with a large, clear image of the 1kg bag. At the top, use a bold, elegant headline like \"Our Lightest One\" to emphasize the product's key benefit, ensuring the brand name and \"High Calcium\" are clearly visible."
+    },
+    {
+      "pair_id": "0078",
+      "generated_prompt": "Create a commercial poster for the Pengyou Folding Bed, featuring a clean, minimalist layout with the bed as the central focus. Use a premium aesthetic with a natural wood color palette and a serene desert backdrop to match the reference image's mood. Position the product prominently in the center, with a bold headline at the top reading \"PENGYOU FOLDING BED\" and a \"SHOP NOW\" call-to-action at the bottom."
+    },
+    {
+      "pair_id": "0079",
+      "generated_prompt": "Generate a commercial product advertisement for the Longines DolceVita Women's Swiss Quartz Watch with Steel Bracelet, Model L42094116. The image should feature a clean, minimalist layout with the watch prominently centered in the middle of the frame. Use a premium, elegant aesthetic with a white background and a sophisticated color palette of silver, white, and black. The headline should be bold and positioned at the top or bottom of the image, with the brand name and model number clearly visible."
+    },
+    {
+      "pair_id": "0080",
+      "generated_prompt": "Create a commercial product advertisement for the SanDisk CZ73 128GB USB Flash Drive, featuring a clean, premium aesthetic. The product should be prominently displayed in the center of the image, with a sleek metal design and a blue USB port visible. The background should be a minimalist white, with a bold, modern headline at the top reading \"Secure Your Data with SanDisk\" in a large, elegant font. The overall color palette should be dark and sophisticated, with a strong emphasis on black, silver, and blue, matching the reference poster's style."
+    },
+    {
+      "pair_id": "0081",
+      "generated_prompt": "Create a commercial poster for the Kangaroo Mommy Bird's Nest Cushion CC Cream in Natural Shade, featuring a clean, minimalist layout with a premium aesthetic. The product should be the central focus, displayed in a close-up shot with a luxurious blue and gold packaging, and the headline \"Kangaroo Mommy\" should be prominently featured at the top in a bold, elegant font."
+    },
+    {
+      "pair_id": "0082",
+      "generated_prompt": "Create a commercial poster with a clean, premium aesthetic, featuring the Yokohama Tire 215/55R17 94V E70B as the central focus. The product should be prominently displayed in the center, with a sleek, modern design. The headline should be bold and eye-catching at the top, using a strong, clear font to emphasize the product's key features and benefits."
+    },
+    {
+      "pair_id": "0083",
+      "generated_prompt": "Create a commercial product advertisement for SEPTWOLVES Men's Cotton Tank Tops, featuring a clean, premium aesthetic. The product should be prominently displayed in the center of the image, with the brand logo and product details clearly visible. The headline should be bold and eye-catching, positioned at the top or bottom of the poster, using a vibrant color palette and a strong, modern design mood to match the reference image."
+    },
+    {
+      "pair_id": "0084",
+      "generated_prompt": "Create a commercial poster with a clean, minimalist design featuring the Yalu Antibacterial Fiber Summer Quilt in light gray as the central focus. Position the quilt stacked neatly in the center, with a soft, neutral background to highlight its texture and color. Use a bold, modern headline at the top reading \"Say 'I do' to a Stylish New Look\" and a \"Shop Now\" button at the bottom right corner, maintaining the premium aesthetic and color palette of the reference image."
+    },
+    {
+      "pair_id": "0085",
+      "generated_prompt": "Create a commercial product advertisement for the Jiayi Solid Wood Coat Rack, featuring a clean, minimalist design with a premium aesthetic. The product should be the central focus, prominently displayed against a neutral background, with a strong, elegant headline at the top. The color palette should be warm and sophisticated, using rich browns and natural wood tones to convey quality and elegance."
+    },
+    {
+      "pair_id": "0086",
+      "generated_prompt": "Create a commercial product advertisement for the BULL Power Strip with Individual Switches, 4 Outlets, 3m Cable, Model GN-B3043. Design it in a premium, clean layout with the product centered in the frame. Use a bold, modern headline at the top or bottom, and ensure the color palette matches the reference poster's dark, natural background with a strong contrast for the white product."
+    },
+    {
+      "pair_id": "0087",
+      "generated_prompt": "Create a commercial product advertisement for MISSHA M Perfect Cover BB Cream SPF42/PA+++, No. 21, Classic Red BB. Design a clean, premium poster with the product prominently displayed in the center, featuring a vibrant red tube with a gold cap against a minimalist white background. Use a bold, modern headline at the top in a large, white sans-serif font that reads \"PERFECT COVER B.B CREAM\" with \"SPF42 / PA+++\" and \"NO. 21\" clearly visible. Ensure the overall aesthetic matches the reference image's bold red and white color scheme and professional, high-quality feel."
+    },
+    {
+      "pair_id": "0088",
+      "generated_prompt": "Create a commercial product advertisement for \"Wei Chuan Wandan Shelf-Stable Milk, Non-Standardized Fat, 200ml\" in a clean, premium style. The product should be the central focus, prominently displayed in the center of the image. Use a bold, modern headline at the top or bottom of the poster, with a strong, appealing color palette and a professional, high-quality aesthetic that matches the reference image's design."
+    },
+    {
+      "pair_id": "0089",
+      "generated_prompt": "Create a commercial product advertisement for SENTOSA Goat Milk Powder, 800g, in a clean, premium style. The product should be the central focus, prominently displayed in the center of the image with a vibrant, appealing design. Use a bold, clear headline at the top or bottom of the poster, matching the reference image's color palette of blues, greens, and warm orange, to create a strong visual impact."
+    },
+    {
+      "pair_id": "0090",
+      "generated_prompt": "Create a commercial poster with a premium, clean aesthetic, featuring the \"Taiwan Sixiu Crispy Salted Winter Bamboo Shoot Crackers\" as the central focus. Position the product in the center of the image, with a large, bold headline at the top reading \"PUT MORE MMM IN YOUR MORNING\" in a vibrant red font. Use the same color palette of red, white, and green from the reference image, with a clean, modern layout to highlight the product's appeal."
+    },
+    {
+      "pair_id": "0091",
+      "generated_prompt": "Create a commercial product advertisement for Ve Wong Prince Noodles, Original Flavor, 40g x 5 Packs. Design a clean, premium poster with the product prominently displayed in the center, featuring the bright yellow packaging with the iconic Prince mascot. Use a bold, modern headline at the top or bottom, matching the clean, stylish aesthetic of the reference image."
+    },
+    {
+      "pair_id": "0092",
+      "generated_prompt": "Create a commercial product advertisement for \"okamoto 003 PLATINUM Ultra-Thin Condoms\" in a clean, premium style. The product should be the central focus, with a vibrant, iridescent holographic box prominently displayed. Use a bold, modern headline at the top or bottom, with a strong call-to-action button, matching the \"On Sale Now!\" and \"Shop Now!\" style of the reference poster."
+    },
+    {
+      "pair_id": "0093",
+      "generated_prompt": "Create a commercial poster for Anchor Full Cream Milk, 1L, featuring a clean, product-centric layout with the milk carton as the central focus. Use a premium advertisement aesthetic with a vibrant red background, golden starburst accents, and a bold, celebratory headline at the top reading \"Sip Sip Hooray! Root Beer Float is Back!\" to match the reference image's style and mood."
+    },
+    {
+      "pair_id": "0094",
+      "generated_prompt": "Create a commercial product advertisement for \"Chung Hsiang Qiaoxin Soda Crackers with Nougat Filling, Original Flavor, 145g\" in a clean, premium style. The product should be prominently displayed in the center of the image, with a clear, bold headline at the top. The color palette should match the reference poster, featuring a bright, clean aesthetic with a strong focus on the product's visual appeal."
+    },
+    {
+      "pair_id": "0095",
+      "generated_prompt": "Create a commercial product advertisement for \"Amei Mochi Cake, Original Flavor, 350g\" in a premium, clean style. The product should be the central focus, prominently displayed in the center of the image with a clear, bold title at the top. Use the same vibrant red and gold color palette and traditional, elegant design elements seen in the reference poster to create a visually appealing and high-end aesthetic."
+    },
+    {
+      "pair_id": "0096",
+      "generated_prompt": "Create a commercial poster for \"Lian Hwa Foods Assorted Snack Box, 39 Packs\" with a premium, clean aesthetic. The product should be the central focus, prominently displayed in a large, open cardboard box filled with colorful snack packages. Use a bold, eye-catching headline at the top or bottom, with a vibrant color palette and a modern, appealing design mood that matches the reference image."
+    },
+    {
+      "pair_id": "0097",
+      "generated_prompt": "Create a commercial product advertisement for Dr.P Adult Underpads XL, 8 Sheets, 60 x 90cm, featuring a clean, premium aesthetic. The product should be prominently displayed in the center of the image, with a bold, clear headline at the top. The color palette should match the reference poster, using a vibrant green and white background with a modern, clean layout."
+    },
+    {
+      "pair_id": "0098",
+      "generated_prompt": "Create a commercial product advertisement for the Galanz P70F23P-G5(S0) 23L Microwave Oven, featuring a clean, modern layout with the product centered. Use a premium aesthetic with a white and black color scheme, and a bold headline at the top that reads \"TIME FOR A DUNKIN' RUN\" in a vibrant pink font. Ensure the microwave is clearly visible, with its control knobs and digital display prominently featured."
+    },
+    {
+      "pair_id": "0099",
+      "generated_prompt": "Create a commercial product advertisement for the Snowwhite Direct-Liquid Rollerball Gel Pen, Black, 12-Pack, Model PVR-155, in a premium poster style. The design should feature a clean, product-centric layout with the pens prominently displayed in the center, showcasing their sleek black and silver design. The headline should be bold and eye-catching, positioned at the top or bottom of the image, with a strong, modern aesthetic that matches the reference poster's color palette of red, white, and blue."
+    },
+    {
+      "pair_id": "0100",
+      "generated_prompt": "Create a commercial product advertisement for Danisa Currant Crunch cookies, featuring a clean, premium aesthetic. The product should be the central focus, with a bold, eye-catching headline at the top. The design should match the reference poster's color palette of deep purple and cream, with a sophisticated, modern layout that highlights the product's premium quality and appealing appearance."
+    }
+  ]
+}
