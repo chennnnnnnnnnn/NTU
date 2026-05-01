@@ -1,4 +1,4 @@
-# TCGA 乳癌存活預測分析專案
+# TCGA 乳癌存活預測分析專案 (Multimodal Survival Risk Stratification for Breast Cancer)
 
 本專案使用 TCGA (The Cancer Genome Atlas) 乳癌資料集，比較不同特徵組合對存活預測的效能。
 
