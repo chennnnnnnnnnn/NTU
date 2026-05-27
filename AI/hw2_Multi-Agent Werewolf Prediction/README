@@ -1,0 +1,52 @@
+HW2 - Multi-Agent Werewolf Prediction   (Student P14942A08)
+=========================================================
+
+Final Kaggle score: 0.35026   (Final = 0.4*Macro-F1 + 0.6*Wolf-AP)
+
+COMPLIANCE
+  * Multi-agent: a 6-stage pipeline (>=2 agents).
+  * No fine-tuning, no external API. All inference local.
+  * The FINAL reproducible pipeline uses ONLY Qwen2.5-7B-Instruct GGUF Q4
+    (the assignment-recommended model); its inference footprint is well
+    under the 12 GB VRAM limit. The discarded 14B/GLM-9B runs were used
+    only for ablation, are NOT part of the submitted pipeline, and are
+    NOT shipped here.
+
+STRUCTURE
+  hw2_P14942A08.pdf            5-page report
+  main.py                  constrained solver + Medium-Execution chain
+  src/                     all other scripts + parsers/ rag/ agents/(7B)
+  src/patches_*.csv        deterministic ironclad case-audit inputs
+  artifacts/submissions/   vC1_040 base + hw2_P14942A08_final (the submission)
+  requirements.txt         pinned dependencies
+  README                   this file
+
+ENVIRONMENT
+  Python 3.10, CUDA GPU. Install:  pip install -r requirements.txt
+  (llama-cpp-python must be the CUDA build.)
+  Place Qwen2.5-7B GGUF Q4 under models/ and the dataset at <DATA>.
+
+REPRODUCE THE SUBMITTED CSV  (deterministic; step 1 is the only LLM call)
+  # 1. evidence + RAG + 3-variant Qwen-7B reasoning  (<12 GB VRAM)
+  python src/run_llm.py \
+     --model models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf \
+     --split private --out artifacts/llm_results --ngl -1 --ctx 8192
+  # 2. constrained solver + Medium-Execution chain -> vC1_040 base
+  python main.py --data-dir <DATA> --split private --version v2+llm \
+     --llm-dir artifacts/llm_results \
+     --medium-chain-dir artifacts/llm_results \
+     --medium-wolf-nudge 0.40 --chain-scale 0.10 --no-multico-fix \
+     --output artifacts/submissions/vC1_040_private.csv
+  # 3. deterministic ironclad case-audit -> FINAL CSV
+  python src/apply_patch.py --name hw2_P14942A08_final \
+     --patches src/patches_nightdeath.csv
+  python src/validate_submission.py \
+     --csv artifacts/submissions/hw2_P14942A08_final_private.csv
+
+NOTES
+  * All LLM calls: temperature 0, fixed seed -> byte-identical reruns.
+  * Steps 2-3 are pure deterministic functions of public game events
+    (executions / night-deaths) and fixed CSV inputs.
+  * src/validate_submission.py enforces the 397-row / 5-column format.
+  * A pre-computed final CSV is included under artifacts/submissions/
+    for direct verification without rerunning the LLM.
