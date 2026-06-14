@@ -21,6 +21,11 @@
 條件：`c2` 本人音色+母語腔、`c3a` 本人音色+中式腔(Fish)、`c3b` 本人音色+中式腔(ElevenLabs)。
 素材：6 speaker × 18 句 × 3 條件 = 324 個音檔，放在 `public/clips/<學號>/`。
 
+## 資料（音檔）
+
+324 個音檔與原始素材**因檔案過大、且涉及個人語音，未納入 git 也不公開**。
+資料由作者保管，需要者請聯繫作者取得。取得後請放到 `public/clips/<學號>/`（目錄結構見「專案結構」）。
+
 ## 技術棧
 
 - **Next.js 16** (App Router) + React 19 + TypeScript
@@ -57,6 +62,9 @@ npm install
 
 # 2. 設定環境變數
 cp .env.local.example .env.local   # 然後填入 Supabase 三把金鑰
+
+# 2.5 取得音檔（不在 git 內，請向作者索取）
+#     取得後解壓放到 public/clips/<學號>/
 
 # 3. 建資料表：把 db/migrations/001~003 貼進 Supabase SQL Editor 執行
 #    （ALTER 後若 API 報「找不到欄位」，跑 NOTIFY pgrst, 'reload schema';）
