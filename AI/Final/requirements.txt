@@ -1,0 +1,39 @@
+# ─────────────────────────────────────────────────────────────────────
+# Clip-Survey — 執行需求 (requirements)
+#
+# 這是 Node / Next.js 專案，套件由 package.json + package-lock.json 管理，
+# 安裝指令為 `npm install`（不是 pip）。本檔列出完整前置需求供參考/交接。
+# ─────────────────────────────────────────────────────────────────────
+
+## 系統需求 (system)
+node            >= 22          # 必須 >= 22：scripts/*.mjs 與 output/analyze.mjs
+                               # 用到 supabase-js，Node 20 缺原生 WebSocket 會報錯
+npm             >= 10
+
+## 執行套件 (runtime — package.json "dependencies")
+next            16.2.6
+react           19.2.4
+react-dom       19.2.4
+@supabase/supabase-js  ^2.106.1
+@supabase/ssr          ^0.10.3
+
+## 開發套件 (dev — package.json "devDependencies")
+typescript      ^5
+tailwindcss     ^4
+@tailwindcss/postcss   ^4
+@types/node     ^20
+@types/react    ^19
+@types/react-dom ^19
+
+## 選用工具 (optional — 驗證/截圖用，未列入 package.json)
+playwright      ^1.60          # 端到端驗證/截圖；安裝: npm i -D playwright && npx playwright install chromium
+vercel (CLI)    ^54            # 部署；以 npx vercel 使用即可
+
+## 外部服務 (external services)
+Supabase                       # Postgres 資料表 (survey_*)；免費方案足夠
+Vercel                         # 部署平台；Hobby 免費方案足夠
+
+## 環境變數 (.env.local — 見 .env.local.example)
+NEXT_PUBLIC_SUPABASE_URL       # Supabase 專案 URL (根網址，勿含 /rest/v1)
+NEXT_PUBLIC_SUPABASE_ANON_KEY  # anon public key
+SUPABASE_SERVICE_ROLE_KEY      # service_role secret key (僅伺服器端使用)

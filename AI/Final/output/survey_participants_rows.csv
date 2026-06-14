@@ -1,0 +1,20 @@
+id,external_code,status,age_bracket,gender,native_language,english_level,used_headphones,created_at,updated_at,student_id,stimulus_set,person_num,attention_passed,team_member_name
+0ded387d-8c72-4d2c-a014-5fa8879e99dd,ANONWURFZ,completed,18-24,male,mandarin,C1,false,2026-06-09 08:26:09.926052+00,2026-06-09 09:22:16.037069+00,,,7,true,蔡秉叡
+1848f42a-c01c-422c-9c19-32e270df7e73,ANONRJFPS,completed,18-24,female,mandarin,B2,false,2026-06-06 17:07:59.667128+00,2026-06-06 17:18:42.507539+00,,,2,true,劉彥柔
+1ebd96aa-da02-4509-a461-a6acc8ecc5ea,ANONBE7MP,completed,25-34,male,mandarin,C1,true,2026-06-08 14:18:14.110122+00,2026-06-08 14:24:43.272038+00,,,1,true,吳京
+20ae7e60-9719-4c71-bee7-2587417b5b94,ANON43BQ7,completed,25-34,female,mandarin,B1,false,2026-06-08 14:03:47.594688+00,2026-06-08 14:10:00.557995+00,,,2,true,陳博文
+44b7561a-6152-4679-b691-2a3fd58d3b84,ANON9FQN9,completed,25-34,female,mandarin,B2,true,2026-06-06 12:38:41.781707+00,2026-06-06 12:44:37.521831+00,,,1,true,劉彥柔
+4d4ee7dc-853f-4c58-be00-84e31665c623,ANONAUD6Y,completed,18-24,female,mandarin,B2,true,2026-06-07 06:13:56.744917+00,2026-06-07 06:19:05.085496+00,,,4,true,劉彥柔
+64bc3b29-edda-4320-bf74-8f9569f619de,ANONYPBJT,completed,18-24,male,mandarin,C1,false,2026-06-06 16:09:15.845892+00,2026-06-06 16:28:08.381971+00,,,4,true,李文豪
+72bc7c87-9ac0-4910-bfbc-92b6d6d7594c,ANON8AMZS,completed,18-24,male,mandarin,B1,false,2026-06-07 08:37:23.228093+00,2026-06-07 08:48:44.391182+00,,,2,true,李文豪
+7855ef00-12ad-41df-bb4b-4797baa30224,ANONQK6DT,completed,35-44,female,mandarin,A2,true,2026-06-09 02:31:26.305423+00,2026-06-09 02:40:43.068784+00,,,4,true,陳博文
+82e872a1-89b5-4f7f-b350-af1307739b56,ANON78UVZ,completed,18-24,male,mandarin,B1,false,2026-06-09 08:26:05.895445+00,2026-06-09 08:34:00.524258+00,,,8,true,蔡秉叡
+90e82832-73d2-4db9-9b5f-a68bd03596ed,ANON83GJM,completed,18-24,male,mandarin,B2,true,2026-06-08 16:09:22.25727+00,2026-06-08 16:14:17.31853+00,,,10,true,蔡秉叡
+a8948ab3-ebf9-46f7-a9bf-8b696e42e107,ANONMMSQD,completed,18-24,male,mandarin,B1,false,2026-06-09 02:33:48.001421+00,2026-06-09 02:38:56.264361+00,,,9,true,陳佑維
+acb43bfa-08f9-437a-8f4e-41ed59a6cfa5,ANON88WG9,completed,18-24,male,mandarin,B1,false,2026-06-06 14:32:11.96549+00,2026-06-06 14:42:59.698227+00,,,3,true,李文豪
+addd2a14-7704-4197-b885-dca18ad1f7c1,ANONX8DR4,completed,18-24,female,mandarin,B2,true,2026-06-06 13:40:33.400217+00,2026-06-06 13:48:13.685177+00,,,3,true,劉彥柔
+c7ab1571-d185-4de0-a20b-b4c6d2e5d4a8,ANONPAXXM,completed,25-34,male,mandarin,B2,false,2026-06-08 13:56:36.121819+00,2026-06-08 14:00:56.029819+00,,,1,true,熊熊
+cccda3e7-3376-4d40-a910-6a3e53c6c6c6,ANONJ3TXQ,enrolled,,,,,,2026-06-09 08:25:09.684413+00,2026-06-09 08:25:09.684413+00,,,8,,黃逸凱
+e4cbc61d-dde6-4321-b22a-6a3b224e7686,ANONB7GP4,completed,25-34,male,mandarin,B1,false,2026-06-07 16:48:11.330958+00,2026-06-07 16:55:33.550755+00,,,1,true,尤聖欽
+ebacec3a-3f30-4ac3-9ca3-5d5ddc365ca9,ANONRTBF2,completed,18-24,male,mandarin,B2,false,2026-06-06 13:29:30.374119+00,2026-06-06 13:34:36.821019+00,,,1,true,李文豪
+fa2b5e16-2be7-497c-b938-ef8824c40030,ANONGX3ME,enrolled,,,,,,2026-06-08 14:09:55.871263+00,2026-06-08 14:09:55.871263+00,,,1,,Cc

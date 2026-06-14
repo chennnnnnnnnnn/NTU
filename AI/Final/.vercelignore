@@ -1,0 +1,19 @@
+# Files committed for archival but not needed at runtime — the production
+# study fetches stimuli from Supabase Storage at request time, so the local
+# copies in stimuli/ are never read by the deployed app.
+
+# Audio source-of-truth pools (kept in repo, served from Storage in prod)
+stimuli/c1_native/
+stimuli/c1_candidates/
+stimuli/s1_candidates/
+
+# Local research scaffolding
+.review/
+db/migrations/
+
+# Build caches + local-only artefacts
+.next/cache/
+
+# Researcher local utilities not needed at runtime
+scripts/
+data/

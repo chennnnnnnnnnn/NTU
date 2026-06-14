@@ -1,0 +1,101 @@
+@import "tailwindcss";
+
+:root {
+  --bg-base: #FAF7F2;
+  --bg-card: #F2EDE4;
+  --bg-elevated: #FFFEFB;
+  --text-ink: #1C1814;
+  --text-muted: #6B635A;
+  --text-faint: #9B9388;
+  --border-warm: #DCD3C5;
+  --border-strong: #B8AC9C;
+  --accent: #8B3A2F;
+  --accent-hover: #6F2E25;
+  --accent-soft: #E8D5CF;
+  --danger: #A33A2A;
+  --success: #4E6B45;
+}
+
+@theme inline {
+  --color-base: var(--bg-base);
+  --color-card: var(--bg-card);
+  --color-elevated: var(--bg-elevated);
+  --color-ink: var(--text-ink);
+  --color-muted: var(--text-muted);
+  --color-faint: var(--text-faint);
+  --color-warm-border: var(--border-warm);
+  --color-warm-strong: var(--border-strong);
+  --color-terracotta: var(--accent);
+  --color-terracotta-hover: var(--accent-hover);
+  --color-terracotta-soft: var(--accent-soft);
+  --color-danger: var(--danger);
+  --color-success: var(--success);
+
+  --font-serif: var(--font-lora);
+  --font-sans: var(--font-plex-sans);
+  --font-mono: var(--font-plex-mono);
+}
+
+html {
+  background: var(--bg-base);
+  color: var(--text-ink);
+  /* This UI is a light-only academic palette. Opt out of browser/OS auto
+     dark mode (e.g. Chrome Android "Auto Dark Theme"), which otherwise
+     darkens backgrounds while keeping our dark text → invisible dark-on-dark. */
+  color-scheme: only light;
+}
+
+body {
+  background: var(--bg-base);
+  color: var(--text-ink);
+  font-family: var(--font-plex-sans), system-ui, sans-serif;
+  font-feature-settings: "ss01", "ss02";
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3 {
+  font-family: var(--font-lora), Georgia, serif;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  color: var(--text-ink);
+}
+
+h1 {
+  font-size: clamp(1.875rem, 1.4rem + 1.5vw, 2.5rem);
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  font-size: 1.375rem;
+  line-height: 1.3;
+}
+
+code, pre, .mono {
+  font-family: var(--font-plex-mono), ui-monospace, monospace;
+  font-feature-settings: "ss02", "zero";
+}
+
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+::selection {
+  background: var(--accent-soft);
+  color: var(--text-ink);
+}
+
+/* Subtle horizontal rule, evokes academic separator */
+hr {
+  border: 0;
+  border-top: 1px solid var(--border-warm);
+  margin: 2.5rem 0;
+}
